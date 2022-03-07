@@ -18,5 +18,5 @@ The repository accomodates our work on the user churn model, data exploration, p
  * [/doc/user-churn-benchmark.md](/doc/user-churn-benchmark.md)   
  * [/doc/user-churn-features.md](/doc/user-churn-features.md)  
 
-# Citation
+# How to cite
 Fridrich, M., & Dostál, P. (2022). User Churn Model in E-Commerce Retail. Scientific Papers of the University of Pardubice, Series D: Faculty of Economics and Administration, 30(1).
