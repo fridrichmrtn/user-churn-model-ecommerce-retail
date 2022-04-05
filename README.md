@@ -21,4 +21,4 @@ The repository accomodates our work on the user churn model, data exploration, p
 [https://www.kaggle.com/fridrichmrtn/user-churn-dataset](https://www.kaggle.com/fridrichmrtn/user-churn-dataset)  
 
 # How to cite
-Fridrich, M., & Dostál, P. (2022). User Churn Model in E-Commerce Retail. Scientific Papers of the University of Pardubice, Series D: Faculty of Economics and Administration, 30(1).
+Fridrich, M., & Dostál, P. (2022). User Churn Model in E-Commerce Retail. Scientific Papers of the University of Pardubice, Series D: Faculty of Economics and Administration, 30(1). https://doi.org/10.46585/sp28031105
