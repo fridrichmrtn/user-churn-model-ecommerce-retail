@@ -7,8 +7,6 @@ This document strives to inspect effect of individual features & feature sets on
 1 [Housekeepin'](#housekeepin)  
 2 [Feature importance](#feature-importance)  
 3 [Feature set importance](#feature-set-importance)  
-4 [Discussion](#discussion)  
-5 [Next steps](#next-steps)
 
 # Housekeepin'
 
@@ -673,19 +671,3 @@ for s in feature_sets:
 
 
 In the plots above, we identify four types of the set importance behavior: (1) group over-performs monte-carlo ranks, examples - recency, frequency, suggestion - stabilize the precision (feature preselection) (2) under-performing the simulation; however, still somewhat functional, examples - category_items, suggestion - improve the precision (preselection, dense representation), (3) datetime set performs on par with random ranks, suggestion - NA (4) others & monetary groups are vastly under-performing, suggestion - omit.
-
-# Discussion
-
-TBD - broadly discuss the benchmark, feature & feature set importance in the business context.
-
-# Next steps
-
-**Modeling/Feature importance**  
- * review feature set procedure,
- * review discussion/bechmark results,
- * ...
-
-**Project**  
- * discuss goal, consider breaking the work down to more pieces,
- * discuss on suitable journal,
- * ...
