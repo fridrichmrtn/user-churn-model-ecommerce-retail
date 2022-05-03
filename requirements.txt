@@ -14,13 +14,13 @@ cycler==0.10.0
 dask==2021.3.0
 decorator==4.4.2
 defusedxml==0.7.1
-distributed==2021.3.0
+distributed>=2021.10.0
 entrypoints==0.3
 fsspec==0.8.7
 HeapDict==1.0.1
 imbalanced-learn==0.8.0
 ipykernel==5.5.0
-ipython==7.21.0
+ipython>=7.31.1
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
